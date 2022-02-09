@@ -1,7 +1,11 @@
 ### Hi there 👋
    
-# I'm an undergraduate Informatics student from Telkom University
+## I'm an undergraduate Informatics student from Telkom University   
 
+### Here's my resume if you are interested!    
+ [Resume](https://github.com/MuhammadZaky44/MuhammadZaky44/files/8030003/Muhammad.Zaky.Al.Fatih.-.Resume.pdf)
+
+ 
 <!--
 **MuhammadZaky44/MuhammadZaky44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
