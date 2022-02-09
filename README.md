@@ -1,5 +1,5 @@
 ### Hi there 👋
-===
+===    
 I'm an undergraduate Informatics student from Telkom University
 
 <!--
