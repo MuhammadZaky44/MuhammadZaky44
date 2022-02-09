@@ -1,8 +1,8 @@
 ### Hi there 👋
    
-## I'm an undergraduate Informatics student from Telkom University./   
+## I'm an undergraduate Informatics student from Telkom University.    
 
-### You can check my [Resume](https://github.com/MuhammadZaky44/MuhammadZaky44/files/8030003/Muhammad.Zaky.Al.Fatih.-.Resume.pdf) for more details about my expirience./
+### You can check my [Resume](https://github.com/MuhammadZaky44/MuhammadZaky44/files/8030003/Muhammad.Zaky.Al.Fatih.-.Resume.pdf) for more details about my expirience.  
 
  
 <!--
